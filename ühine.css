@@ -10,8 +10,16 @@
     padding-left:10%;
     padding-right: 10%;
     padding-top: 4%;
-    padding-bottom: 7%;
+    padding-bottom: 5%;
     line-height: 2;
+    text-align: justify;
+}
+
+h5{
+    text-align: center;
+    color: #2B262D;
+    font-size: 300%;
+    letter-spacing: 3px;
 }
 
 .headerfont {
