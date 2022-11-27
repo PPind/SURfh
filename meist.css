@@ -1,19 +1,7 @@
 .pilt {
     margin-left: 25%;
     margin-right:25%;
+    margin-bottom:5%;
+    
 }
 
-img{
-    width: 100%;
-    height: auto;
-}
-
-.pealkiri{
-    text-align: center;
-    color: #2B262D;
-    font-size: 100%;
-    font-family: 'Montserrat', sans-serif;
-    padding-top: 1%;
-    padding-bottom: 5%;
-
-}
