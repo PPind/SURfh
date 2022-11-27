@@ -1,0 +1,24 @@
+.base {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.baseinside {
+    width: 80%;
+    height: 100%;
+    text-align: center;
+}
+
+.picture {
+    display: inline-block;
+    width: 30%;
+    height: 0;
+    margin: 3px;
+    padding-bottom: 20%; 
+}
+
+.imginside {
+    max-width: 100%;
+    max-height: fit-content;
+}
