@@ -17,7 +17,7 @@ class AppHeader extends HTMLElement { //teeme class-i
             </div>
     
             <div class="button">
-                <a href="linnud.html">
+                <a href="linnud2.html">
                     <p class="headerfont">MEIE LINNUD</p>
                 </a>
             </div>
