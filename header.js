@@ -37,12 +37,10 @@ class AppHeader extends HTMLElement { //teeme class-i
     
         <div class="logodiv">
             <a href="avaleht.html">
-                <img id="logo" src="logo.png">
+                <img id="logo" alt="avaleht" src="linnud/logo.png">
             </a>
         </div>
     
-    
-    </div>
         `
     }
 }
