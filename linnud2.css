@@ -60,10 +60,3 @@
     filter: brightness(80%);
     z-index:3;
 }
-
-.linnudtekst {
-    padding-top: 4%;
-    padding-bottom: 5%;
-    line-height: 2;
-    font-size: 110%;
-}
