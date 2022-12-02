@@ -5,11 +5,12 @@ class AppFooter extends HTMLElement { //teeme class-i
         <div class="footer-content">
             <h3>ÖKU KOHVIK</h3>
             <div class="text">
-                <p>Tule ja vaata ise</p>
+                <p>Lahtiolekuajad: </p>
+            <p><mark>E-P 10:00-22:00</mark></p>
                 </div>
             <div class="footer__phone">
                 <a href="#"><i class="fa fa-phone"></i></a>
-                <a href="tel:+37251234567">+372 51234567</a> 
+                <a href="tel:+37251234567">+37251234567</a> 
             </div>
             <div class="footer_email">
                 <a href="#"><i class="fa fa-envelope"></i></a>
@@ -17,12 +18,6 @@ class AppFooter extends HTMLElement { //teeme class-i
             </div>
             
             
-            <ul class="socials">
-                
-                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                <li><a href="#"><i class="fa fa-google"></i></a></li>
-                <li><a href="#"><i class="fa fa-github"></i></a></li>
-            </ul>
         </div>
     
         <div class="footer-bottom">

@@ -78,13 +78,15 @@ footer{
 .footer__phone{
     text-align: right;
     align-items: right;
-    margin-right: 3cm;
+    margin:auto; 
+    margin-bottom: 0.5%;
     font-size: 20;
 }
 .footer_email{
     text-align: right;
     align-items: right;
-    margin-right: 3cm;
+    margin: auto;
+    margin-bottom: 1%;
     font-size: 20;
 }
 .text{
