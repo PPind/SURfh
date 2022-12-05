@@ -21,22 +21,23 @@
 
 
     <app-header></app-header>
+
     <div class="tavatekst">
     <div class="container">
       <div class="map">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2091.7743565645465!2d26.721603215801096!3d58.38034219378585!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46eb36e735b5366d%3A0x117ffba2f458995c!2sRaekoja%20plats%2C%20Tartu!5e0!3m2!1set!2see!4v1670230336092!5m2!1set!2see" width="90%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2091.7743565645465!2d26.721603215801096!3d58.38034219378585!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46eb36e735b5366d%3A0x117ffba2f458995c!2sRaekoja%20plats%2C%20Tartu!5e0!3m2!1set!2see!4v1670230336092!5m2!1set!2see" width="1200" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
       </div>
       
       <div class="contact-form">
-        <div class="headerfont">
+      <div class="headerfont">
         <h5>KONTAKT</h5>
         </div>
-        <table >
-          <div class="tabel">
-        <form action="">
+        <table class="tabel">
+          
           <tr>
           <th><input type="text" name="name" placeholder="Nimi" /></th>
-        <th rowspan="3"><textarea name="text" id="" rows="8" placeholder="Kirjuta siia oma küsimused/kommentaarid/tagasiside"></textarea></th></tr>
+          <th rowspan="3"><textarea name="text" id="tekst" rows="8" placeholder="Kirjuta siia oma küsimused/kommentaarid/tagasiside"></textarea></th>
+          </tr>
           <tr>
             <td><input type="email" name="email" placeholder="E-Mail"/></td>
           </tr>
@@ -49,16 +50,16 @@
               <option value="usa">Teine</option>
             </select>
             <input type="tel" name="phone" placeholder="Telefoninumber"/></td></tr>
-
+              
+          
         </table>
-      </div>
-      
-    </div>
+        </div>
           <button class="btn-send">Saada ära</button>
-        </form>
+        
       </div>
-    </div>
-   </div>
+      </div>
+
+   
     <app-footer></app-footer>
         
 
