@@ -36,6 +36,11 @@ button{
     font-family: 'Montserrat', sans-serif;
 
 }
+
+button:hover {
+    opacity: 0.6;
+    }
+
 *{
     text-align: center;
     justify-content: center;
@@ -48,10 +53,12 @@ button{
     font-family: 'Montserrat', sans-serif;
     width:800px;
 }
+
 iframe{
     border-radius: 20px ;
     font-family: 'Montserrat', sans-serif;
 }
+
 h1{
     margin: 6px 0 6px 0;
     font-family: 'Candal', sans-serif;
