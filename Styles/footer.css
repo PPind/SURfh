@@ -77,17 +77,15 @@ footer{
 }
 .footer__phone{
     text-align: right;
-    align-items: right;
+    align-items:flex-end;
     margin:auto; 
     margin-bottom: 0.5%;
-    font-size: 20;
 }
 .footer_email{
     text-align: right;
-    align-items: right;
+    align-items: flex-end;
     margin: auto;
     margin-bottom: 1%;
-    font-size: 20;
 }
 .text{
     text-align: center;
