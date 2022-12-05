@@ -46,6 +46,7 @@ button{
     text-align: center;
     margin: auto;
     font-family: 'Montserrat', sans-serif;
+    width:"800";
 }
 iframe{
     border-radius: 20px ;

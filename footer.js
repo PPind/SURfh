@@ -6,7 +6,9 @@ class AppFooter extends HTMLElement { //teeme class-i
             <h3>ÖKU KOHVIK</h3>
             <div class="text">
                 <p>Lahtiolekuajad: </p>
+                
             <p><mark>E-P 10:00-22:00</mark></p>
+                
                 </div>
             <div class="footer__phone">
                 <a href="#"><i class="fa fa-phone"></i></a>
